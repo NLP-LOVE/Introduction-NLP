@@ -1,1 +1,2 @@
-*.md linguist-language=Jupyter Notebook
+*.md linguist-language=python
+*.png linguist-language=python
