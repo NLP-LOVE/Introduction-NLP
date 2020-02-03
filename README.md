@@ -4,11 +4,15 @@ HanLP作者何晗老师的新书《自然语言处理入门》详细笔记！业
 本项目旨在帮助更多同路人能够快速的掌握 NLP 的专业知识，理清知识要点，在工作中发挥更大的作用。以书本为主，记录本人学习此书的心路历程、总结和笔记。
 
 - 机器学习与深度学习请转至本人项目：[ML-NLP](https://github.com/NLP-LOVE/ML-NLP)
+
 - HanLP项目：[HanLP](https://github.com/hankcs/HanLP)
+
 - 思维导图，**请关注 AIArea 公众号并回复：NLP思维导图** ，即能下载高清大图。
+
 - ![](https://github.com/NLP-LOVE/Introduction-NLP/raw/master/img/2020-2-3_16-0-25.png?raw=true)
+  
 
-
+**项目持续更新中......**
 
 ## 目录
 
