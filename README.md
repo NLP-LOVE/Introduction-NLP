@@ -22,7 +22,7 @@ HanLP作者何晗老师的新书《自然语言处理入门》详细笔记！业
 | ------------------------------------------------------------ |
 | [第 1 章：新手上路](https://github.com/NLP-LOVE/Introduction-NLP/blob/master/chapter/1.%20%E6%96%B0%E6%89%8B%E4%B8%8A%E8%B7%AF.md) |
 | [第 2 章：词典分词](https://github.com/NLP-LOVE/Introduction-NLP/blob/master/chapter/2.%E8%AF%8D%E5%85%B8%E5%88%86%E8%AF%8D.md) |
-| 第 3 章：二元语法与中文分词                                  |
+| [第 3 章：二元语法与中文分词](https://github.com/NLP-LOVE/Introduction-NLP/blob/master/chapter/3.%E4%BA%8C%E5%85%83%E8%AF%AD%E6%B3%95%E4%B8%8E%E4%B8%AD%E6%96%87%E5%88%86%E8%AF%8D.md) |
 | 第 4 章：隐马尔可夫模型与序列标注                            |
 | 第 5 章：感知机分类与序列标注                                |
 | 第 6 章：条件随机场与序列标注                                |
