@@ -2,6 +2,7 @@ import zipfile
 import os
 
 from pyhanlp import *
+from pyhanlp.static import download, remove_file, HANLP_DATA_PATH
 
 
 def test_data_path():
