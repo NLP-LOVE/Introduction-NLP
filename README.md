@@ -24,7 +24,7 @@ HanLP作者何晗老师的新书《自然语言处理入门》详细笔记！业
 | [第 2 章：词典分词](https://github.com/NLP-LOVE/Introduction-NLP/blob/master/chapter/2.%E8%AF%8D%E5%85%B8%E5%88%86%E8%AF%8D.md) |
 | [第 3 章：二元语法与中文分词](https://github.com/NLP-LOVE/Introduction-NLP/blob/master/chapter/3.%E4%BA%8C%E5%85%83%E8%AF%AD%E6%B3%95%E4%B8%8E%E4%B8%AD%E6%96%87%E5%88%86%E8%AF%8D.md) |
 | [第 4 章：隐马尔可夫模型与序列标注](https://github.com/NLP-LOVE/Introduction-NLP/blob/master/chapter/4.%E9%9A%90%E9%A9%AC%E5%B0%94%E5%8F%AF%E5%A4%AB%E6%A8%A1%E5%9E%8B%E4%B8%8E%E5%BA%8F%E5%88%97%E6%A0%87%E6%B3%A8.md ) |
-| 第 5 章：感知机分类与序列标注                                |
+| [第 5 章：感知机分类与序列标注](https://github.com/NLP-LOVE/Introduction-NLP/blob/master/chapter/5.%E6%84%9F%E7%9F%A5%E6%9C%BA%E5%88%86%E7%B1%BB%E4%B8%8E%E5%BA%8F%E5%88%97%E6%A0%87%E6%B3%A8.md) |
 | 第 6 章：条件随机场与序列标注                                |
 | 第 7 章：词性标注                                            |
 | 第 8 章：命名实体识别                                        |
