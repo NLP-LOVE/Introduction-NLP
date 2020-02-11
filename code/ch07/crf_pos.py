@@ -45,7 +45,7 @@ NER_MODEL = os.path.join(PKU98, 'ner.bin')
 
 
 ## ===============================================
-## 以下开始 HMM 词性标注
+## 以下开始 CRF 词性标注
 
 AbstractLexicalAnalyzer = JClass('com.hankcs.hanlp.tokenizer.lexical.AbstractLexicalAnalyzer')
 PerceptronSegmenter = JClass('com.hankcs.hanlp.model.perceptron.PerceptronSegmenter')
