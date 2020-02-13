@@ -29,8 +29,8 @@ HanLP作者何晗老师的新书《自然语言处理入门》详细笔记！业
 | [第 7 章：词性标注](https://github.com/NLP-LOVE/Introduction-NLP/blob/master/chapter/7.%E8%AF%8D%E6%80%A7%E6%A0%87%E6%B3%A8.md) |
 | [第 8 章：命名实体识别](https://github.com/NLP-LOVE/Introduction-NLP/blob/master/chapter/8.%E5%91%BD%E5%90%8D%E5%AE%9E%E4%BD%93%E8%AF%86%E5%88%AB.md) |
 | [第 9 章：信息抽取](https://github.com/NLP-LOVE/Introduction-NLP/blob/master/chapter/9.%E4%BF%A1%E6%81%AF%E6%8A%BD%E5%8F%96.md) |
-| 第 10 章：文本聚类                                           |
-| 第 11 章：文本分类                                           |
+| [第 10 章：文本聚类](https://github.com/NLP-LOVE/Introduction-NLP/blob/master/chapter/10.%E6%96%87%E6%9C%AC%E8%81%9A%E7%B1%BB.md) |
+| [第 11 章：文本分类](https://github.com/NLP-LOVE/Introduction-NLP/blob/master/chapter/11.%E6%96%87%E6%9C%AC%E5%88%86%E7%B1%BB.md) |
 | 第 12 章：依存句法分析                                       |
 | 第 13 章：深度学习与自然语言处理                             |
 
