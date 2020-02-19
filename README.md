@@ -12,7 +12,7 @@ HanLP作者何晗老师的新书《自然语言处理入门》详细笔记！业
 - ![](https://github.com/NLP-LOVE/Introduction-NLP/raw/master/img/2020-2-3_16-0-25.png?raw=true)
   
 
-**项目持续更新中......**
+
 
 ## 目录
 
@@ -32,6 +32,6 @@ HanLP作者何晗老师的新书《自然语言处理入门》详细笔记！业
 | [第 10 章：文本聚类](https://github.com/NLP-LOVE/Introduction-NLP/blob/master/chapter/10.%E6%96%87%E6%9C%AC%E8%81%9A%E7%B1%BB.md) |
 | [第 11 章：文本分类](https://github.com/NLP-LOVE/Introduction-NLP/blob/master/chapter/11.%E6%96%87%E6%9C%AC%E5%88%86%E7%B1%BB.md) |
 | [第 12 章：依存句法分析](https://github.com/NLP-LOVE/Introduction-NLP/blob/master/chapter/12.%E4%BE%9D%E5%AD%98%E5%8F%A5%E6%B3%95%E5%88%86%E6%9E%90.md) |
-| 第 13 章：深度学习与自然语言处理                             |
+| [第 13 章：深度学习与自然语言处理](https://github.com/NLP-LOVE/Introduction-NLP/blob/master/chapter/13.%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E4%B8%8E%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86.md) |
 
 
