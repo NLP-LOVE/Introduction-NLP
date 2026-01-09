@@ -7,9 +7,8 @@ HanLP作者何晗老师的新书《自然语言处理入门》详细笔记！业
 
 - HanLP项目：[HanLP](https://github.com/hankcs/HanLP)
 
-- 思维导图，**请关注 AIArea 公众号并回复：NLP思维导图** ，即能下载高清大图。
-
-- ![](https://github.com/NLP-LOVE/Introduction-NLP/raw/master/img/2020-2-3_16-0-25.png?raw=true)
+- 思维导图，**请关注 第5纪元 公众号并回复：NLP思维导图** ，即能下载高清大图。
+- ![](./images/qrcode.jpg)
   
 
 
@@ -34,4 +33,4 @@ HanLP作者何晗老师的新书《自然语言处理入门》详细笔记！业
 | [第 12 章：依存句法分析](https://github.com/NLP-LOVE/Introduction-NLP/blob/master/chapter/12.%E4%BE%9D%E5%AD%98%E5%8F%A5%E6%B3%95%E5%88%86%E6%9E%90.md) |
 | [第 13 章：深度学习与自然语言处理](https://github.com/NLP-LOVE/Introduction-NLP/blob/master/chapter/13.%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E4%B8%8E%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86.md) |
 
-
+**其他项目推荐：** [personal-llm-api 轻量级的 LLM 接口服务](https://github.com/NLP-LOVE/personal-llm-api)
