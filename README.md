@@ -8,7 +8,7 @@ HanLP作者何晗老师的新书《自然语言处理入门》详细笔记！业
 - HanLP项目：[HanLP](https://github.com/hankcs/HanLP)
 
 - 思维导图，**请关注 第5纪元 公众号并回复：NLP思维导图** ，即能下载高清大图。
-- ![](./images/qrcode.jpg)
+- ![](./img/qrcode.jpg)
   
 
 
